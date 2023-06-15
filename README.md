@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-FA6C0E?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" />
 <br>
 <img src="https://img.shields.io/badge/Spring_Boot-F9FCF3?style=for-the-badge&logo=spring-boot" height="25" />
-<img src="https://img.shields.io/badge/MySQL-7DA205?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Git-D6A801?style=for-the-badge&logo=git&logoColor=white" height="25" />
 <br>
 <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="25" />

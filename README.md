@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### `💙 Tech Stack 💙`
 <img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge&logo=java&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" /> 
+<img src="https://img.shields.io/badge/JavaScript-468010?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" /> 
 <img src="https://img.shields.io/badge/HTML5-0A6A05?style=for-the-badge&logo=html5&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/CSS-BB9F00?&style=for-the-badge&logo=css3&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Bootstrap-FA6C0E?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" />
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="25" />
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 </div>

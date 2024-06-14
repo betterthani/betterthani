@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="25" />
 <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 </div>

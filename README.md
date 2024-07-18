@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=464646&color=auto&height=250&section=header&text=Back-end%20Development%20&fontSize=40&desc=Welcome!&descAlignY=75&descAlign=60) 
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=464646&color=auto&height=250&section=header&text=AI Solution Developer%20Development%20&fontSize=40&desc=Welcome!&descAlignY=75&descAlign=60) 
 
 
 ### `💙 Tech Stack 💙`
